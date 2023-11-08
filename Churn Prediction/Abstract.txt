@@ -1,0 +1,8 @@
+ABSTRACT
+
+
+Customer churn prediction has gathered greater interest in business, especially in the telecommunications industries. Many authors have presented different versions of the churn prediction models greatly based on the data mining concepts employing machine learning and meta-heuristic algorithms. The aim of this paper is to study some of the most important churn prediction techniques developed over recent years. The primary objective is on the churn in telecom industries to accurately estimate the customer survival and customer hazard functions to gain complete knowledge of churn over the customer tenure. Another objective is the identification of the customers who are at the blink of churn and approximating the time they will churn. This paper focuses on analyzing the churn prediction techniques to identify churn behavior and validate the reasons for customer churn. This paper summarizes the churn prediction techniques to have a deeper understanding of customer churn and it shows that the most accurate churn prediction is given by the hybrid models rather than single algorithms so that telecom industries become aware of the needs of high-risk customers and enhance their services to overturn the churn decision.
+
+Keywords- Telecom Retention, Churn Analysis, Exploratory Data Analysis, Telecustomer Dataset
+
+
